@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Urbanist';
+  src: url('./urbanist-font.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'Urbanist';
+  /* background: url('./icon.png'); */
+}
